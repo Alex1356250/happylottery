@@ -1,5 +1,4 @@
-{
-	"toys": [
+[
 		{
 			"id": 1,
 			"name": "Puzzle Animaux Sauvages",
@@ -161,4 +160,3 @@
 			"gender": "NR"
 		}
 	]
-}
