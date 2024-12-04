@@ -11,7 +11,7 @@
 			"id": 2,
 			"name": "Lego Ville Aventure",
 			"description": "Un kit Lego comprenant 150 pièces pour construire une petite ville avec des véhicules et des personnages.",
-			"photo": "",
+			"photo": "https://cdn.cultura.com/cdn-cgi/image/width=450/media/pim/5702017419473_5.jpg",
 			"age_range": "7 à 10",
 			"gender": "NR"
 		},
@@ -27,7 +27,7 @@
 			"id": 4,
 			"name": "Jeu de Mémoire Fruits",
 			"description": "Un jeu de cartes pour développer la mémoire en associant des paires de fruits.",
-			"photo": "",
+			"photo": "https://www.bec-et-croc.com/3174-large_default/memo-des-fruits.jpg",
 			"age_range": "4 à 6",
 			"gender": "NR"
 		},
@@ -59,7 +59,7 @@
 			"id": 8,
 			"name": "Camion de Pompiers Interactif",
 			"description": "Un camion de pompiers avec des lumières et des sons réalistes.",
-			"photo": "",
+			"photo": "https://cdn.cultura.com/cdn-cgi/image/width=450/media/mkp/2d2f7ca81f7a4b1faa360228b21735a8",
 			"age_range": "4 à 6",
 			"gender": "Garçon"
 		},
@@ -67,7 +67,7 @@
 			"id": 9,
 			"name": "Kit Jardinage Enfant",
 			"description": "Un ensemble d'outils pour apprendre à jardiner.",
-			"photo": "",
+			"photo": "https://www.pretajardiner.com/10612-large_default/kit-imitation-jardinier-enfants.jpg",
 			"age_range": "4 à 6",
 			"gender": "NR"
 		},
@@ -75,7 +75,7 @@
 			"id": 10,
 			"name": "Déguisement Super Héros",
 			"description": "Un costume de super-héros comprenant une cape, un masque et des accessoires.",
-			"photo": "",
+			"photo": "https://www.espacefete.com/wp-content/uploads/2021/01/Deguisement-super-heros-Espace-Fete-Agen-Boe.jpg",
 			"age_range": "7 à 10",
 			"gender": "Garçon"
 		},
@@ -83,7 +83,7 @@
 			"id": 11,
 			"name": "Tapis Musical",
 			"description": "Un tapis interactif qui joue des notes de musique lorsque l'enfant marche dessus.",
-			"photo": "",
+			"photo": "https://static.bebeboutik.fr/media/image/ed/fc/pimpimsky-tapis-musical-bebe-piano-90x28cm-tapis-3207.jpg",
 			"age_range": "0 à 3",
 			"gender": "NR"
 		},
@@ -91,7 +91,7 @@
 			"id": 12,
 			"name": "Dominos Géants",
 			"description": "Un jeu classique avec des dominos surdimensionnés, parfait pour les petites mains.",
-			"photo": "",
+			"photo": "https://locevenementiel.fr/544-large_default/domino-geant.jpg",
 			"age_range": "4 à 6",
 			"gender": "NR"
 		},
@@ -99,7 +99,7 @@
 			"id": 13,
 			"name": "Coffret Perles à Enfiler",
 			"description": "Un ensemble de perles colorées pour créer des colliers et bracelets.",
-			"photo": "",
+			"photo": "https://lagranderecre-lagranderecre-fr-storage.omn.proximis.com/Imagestorage/images/0/0/5f1edbadb994f_778872_1_.jpg",
 			"age_range": "7 à 10",
 			"gender": "Fille"
 		},
@@ -107,7 +107,7 @@
 			"id": 14,
 			"name": "Voiture de Course Radiocommandée",
 			"description": "Une voiture de course rapide avec télécommande intuitive.",
-			"photo": "",
+			"photo": "https://www.provence-outillage.fr/data/images/voiture-telecommandee-noire-a-09573_800x800.webp",
 			"age_range": "7 à 10",
 			"gender": "Garçon"
 		},
@@ -115,7 +115,7 @@
 			"id": 15,
 			"name": "Robot Programmable pour Enfants",
 			"description": "Un robot éducatif pour initier les enfants à la programmation.",
-			"photo": "",
+			"photo": "https://www.lexibook.com/media/catalog/product/cache/3/image/1200x1200/9df78eab33525d08d6e5fb8d27136e95/r/o/rob20fr_i01.jpg",
 			"age_range": "11 à 15",
 			"gender": "NR"
 		},
@@ -123,7 +123,7 @@
 			"id": 16,
 			"name": "Blocs de Construction Magnétiques",
 			"description": "Des blocs aimantés pour construire des structures en 3D.",
-			"photo": "",
+			"photo": "https://www.cdiscount.com/pdt2/3/1/1/1/550x550/auc6131415903311/rw/bloc-de-construction-magnetique-109-pieces-magiqu.jpg",
 			"age_range": "7 à 10",
 			"gender": "NR"
 		},
@@ -131,7 +131,7 @@
 			"id": 17,
 			"name": "Tablette Éducative",
 			"description": "Une tablette conçue pour les enfants avec des jeux éducatifs.",
-			"photo": "",
+			"photo": "https://lagranderecre-lagranderecre-fr-storage.omn.proximis.com/Imagestorage/imagesSynchro/0/0/3e4faf331a07d82244118668226a18c6a6c08b88_IMG-PRODUCT-706869-3.jpeg",
 			"age_range": "4 à 6",
 			"gender": "NR"
 		},
@@ -139,7 +139,7 @@
 			"id": 18,
 			"name": "Maison de Poupées en Bois",
 			"description": "Une maison de poupées en bois avec des meubles et accessoires.",
-			"photo": "",
+			"photo": "https://mes-jouets-en-bois.com/5505-large_default/maison-de-poupee-manoir-bois.jpg",
 			"age_range": "7 à 10",
 			"gender": "Fille"
 		},
@@ -147,7 +147,7 @@
 			"id": 19,
 			"name": "Balle Rebondissante Lumineuse",
 			"description": "Une balle qui s'illumine lorsqu'elle rebondit.",
-			"photo": "",
+			"photo": "https://www.autismediffusion.com/Files/21499/Img/03/M72209-Lot-de-4-balles-lumineuses-8-ZOOM.jpg",
 			"age_range": "4 à 6",
 			"gender": "NR"
 		},
@@ -155,7 +155,7 @@
 			"id": 20,
 			"name": "Arche d'Éveil pour Bébé",
 			"description": "Un jouet coloré avec des suspensions pour stimuler les sens des bébés.",
-			"photo": "",
+			"photo": "https://monlitcabane.com/67385-large_default/arche-d-eveil-en-bois-menthe.jpg",
 			"age_range": "0 à 3",
 			"gender": "NR"
 		}
